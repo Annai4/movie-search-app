@@ -1,0 +1,12 @@
+# Environment variables (contains real secrets)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
